@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently working at Comzent Company as a developer. I have experience working with PHP, CodeIgniter4 ,JavaScript, jQuery, and AJAX, and I enjoy building efficient and user-friendly web applications. I am actively expanding my skill set by learning Node.js and React.<br><br>I am highly enthusiastic about learning new technologies and continuously improving my technical abilities. I enjoy taking on new challenges and adapting to modern development practices while contributing positively to my team and projects.
+I am currently working at Comzent Company as a developer. I have experience working with PHP, CodeIgniter4 , JavaScript, jQuery, and AJAX, and I enjoy building efficient and user-friendly web applications. I am actively expanding my skill set by learning Node.js and React.<br><br>I am highly enthusiastic about learning new technologies and continuously improving my technical abilities. I enjoy taking on new challenges and adapting to modern development practices while contributing positively to my team and projects.
 
 
 ## 🌐 Socials:
